@@ -1,0 +1,15 @@
+{
+    "name": "Example Plugin 1",
+    "url": "modules\\examplemodule\\config.json",
+    "slug": "example-plugin-1",
+    "id": "example-plugin-1-63ce3bbc615f9-20230123",
+    "version": "1.0",
+    "author": "Jhon Doe",
+    "author_uri": "jhonedoe.com",
+    "categories": "category1, category2, category3, category4",
+    "tags": "tag1, tag2, tag3, tag4",
+    "entry_point": "main.php",
+    "thumbnail": "thumbnail.png",
+    "dock": "dock",
+    "description": "A Simple Plugin for Testing Purpose."
+}
