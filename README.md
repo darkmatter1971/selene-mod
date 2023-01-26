@@ -1,6 +1,4 @@
 <div align="center">
-  <h3>SeleneMod</h3>
-  <p>A simple and lightweight PHP module/plugin system for easy integration and management of additional functionality in PHP application.</p>
+  <h2>SeleneMod</h2>
+  <p>This module system is part of <a href="https://github.com/darkmatter1971/elara">Elara</a> Framework Project. This module system offers a simple and lightweight solution for integrating and managing additional functionality within PHP applications. Despite being a part of the Elara Framework Project, it can also be used as a standalone package</p>
 </div>
-
-**_Note:_** This module system is part of [Elara](https://github.com/darkmatter1971/elara) Framework.
