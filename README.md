@@ -11,6 +11,6 @@
 <br>
 
 <div align="center">
-  <h2>🚧 Work in Progress 🚧</h2>
+  <h2>🚧 WARNING 🚧</h2>
   <p>At the moment, this is in the experimental phase, so it's important to keep in mind that certain features may undergo changes as development continues.</p>
 </div>
