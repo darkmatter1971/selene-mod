@@ -6,6 +6,10 @@
 
 <div align="center">
   <p>This module system is part of <a href="https://github.com/darkmatter1971/elara">Elara</a> Framework Project. It's offers a simple and lightweight solution for integrating and managing additional functionality within PHP applications.</p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/min%20php-%20v8.1-8892BF.svg?style=flat" alt="Minimum PHP version">
+  </p>
 </div>
 
 <br>
