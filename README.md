@@ -9,6 +9,7 @@
   
   <p>
     <img src="https://img.shields.io/badge/min%20php-%20v8.1-8892BF.svg?style=flat" alt="Minimum PHP version">
+    <img style="border-radius: 0.25em;" src="http://hits.dwyl.com/darkmatter1971/selene-mod.svg" alt="HitCount">
   </p>
 </div>
 
