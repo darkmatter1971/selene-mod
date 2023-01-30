@@ -1,3 +1,9 @@
+<style>
+  .rounded-corner {
+    border-radius: 0.25em;
+  }
+</style>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/darkmatter1971/selene-mod/main/media/SeleneMod.png" alt="Logo">
 </div>
@@ -9,7 +15,7 @@
   
   <p>
     <img src="https://img.shields.io/badge/min%20php-%20v8.1-8892BF.svg?style=flat" alt="Minimum PHP version">
-    <img style="border-radius: 0.25em;" src="http://hits.dwyl.com/darkmatter1971/selene-mod.svg" alt="HitCount">
+    <img src="http://hits.dwyl.com/darkmatter1971/selene-mod.svg" alt="HitCount" class="rounded-corner">
   </p>
 </div>
 
