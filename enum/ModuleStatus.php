@@ -1,8 +1,8 @@
 <?php
 
-declare(strict_types=1);
+declare(strict_types = 1);
 
-namespace App\Enum\ModuleStatus;
+namespace App\Enum\Module;
 
 enum ModuleStatus: int {
     case ENABLE  = 1;
